@@ -16,6 +16,9 @@ app.use(cors());
 app.use(express.json());
 app.use(express.static("public"));
 
+app.use("/", function (req, res) {
+  res.send("Hello from Server");
+});
 app.use("/api/shops", shopRouter);
 app.use("/api/products", productRouter);
 app.use("/api/orders", orderRouter);
