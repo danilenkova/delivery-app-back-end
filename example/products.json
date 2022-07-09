@@ -1,0 +1,231 @@
+[{
+  "_id": {
+    "$oid": "62c83a10f9a46c1b81ff2b03"
+  },
+  "name": "Big Mac",
+  "price": "4.17",
+  "image": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/hero/thumb.Sdwch_BigMac.png?$Product_Desktop$",
+  "shop": {
+    "$oid": "62c5c700f28136e8c049099c"
+  }
+},{
+  "_id": {
+    "$oid": "62c8470e4361b949952e5116"
+  },
+  "name": "Big Tasty",
+  "price": "4.78",
+  "image": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/hero/SdwchBigTasty.png?$Product_Desktop$",
+  "shop": {
+    "$oid": "62c5c700f28136e8c049099c"
+  }
+},{
+  "_id": {
+    "$oid": "62c848304361b949952e511d"
+  },
+  "name": "McChicken",
+  "price": "4.17",
+  "image": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/hero/Sdwch_McChicken.png?$Product_Desktop$",
+  "shop": {
+    "$oid": "62c5c700f28136e8c049099c"
+  }
+},{
+  "_id": {
+    "$oid": "62c8509b4361b949952e514c"
+  },
+  "name": "Chicken McNuggets",
+  "price": "3.76",
+  "image": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/hero/ChickenMcNuggets4.png?$Product_Desktop$",
+  "shop": {
+    "$oid": "62c5c700f28136e8c049099c"
+  }
+},{
+  "_id": {
+    "$oid": "62c850ee4361b949952e5153"
+  },
+  "name": "French Fries Medium",
+  "price": "2.44",
+  "image": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/hero/FFMedium.png?$Product_Desktop$",
+  "shop": {
+    "$oid": "62c5c700f28136e8c049099c"
+  }
+},{
+  "_id": {
+    "$oid": "62c8a5a44361b949952e5453"
+  },
+  "name": "Whopper",
+  "price": "4.19",
+  "image": "https://www.burgerking.com.my/upload/image/Product/8/Whopper%20Ala%20Carte.png",
+  "shop": {
+    "$oid": "62c5c736f28136e8c04909a3"
+  }
+},{
+  "_id": {
+    "$oid": "62c8a5e74361b949952e5456"
+  },
+  "name": "Cheeseburger",
+  "price": "1.00",
+  "image": "https://www.burgerking.com.my/upload/image/Product/16/Cheeseburger%20%28Single%29%20Ala%20Carte.png",
+  "shop": {
+    "$oid": "62c5c736f28136e8c04909a3"
+  }
+},{
+  "_id": {
+    "$oid": "62c8a65c4361b949952e5461"
+  },
+  "name": "Crispy Chicken Sandwich",
+  "price": "4.99",
+  "image": "https://www.burgerking.com.my/upload/image/Product/101/J1001846-BKMY-FRENCHCHICKENCOMEBACK-WEBSITESKU-500x540.png",
+  "shop": {
+    "$oid": "62c5c736f28136e8c04909a3"
+  }
+},{
+  "_id": {
+    "$oid": "62c8a7964361b949952e546c"
+  },
+  "name": "French Fries",
+  "price": "1.39",
+  "image": "https://www.burgerking.com.my/upload/image/Product/18/French%20Fries.png",
+  "shop": {
+    "$oid": "62c5c736f28136e8c04909a3"
+  }
+},{
+  "_id": {
+    "$oid": "62c98b254d2b2b486f181c95"
+  },
+  "name": "Bucket Duet Original",
+  "price": "8.33",
+  "image": "https://www.kfc-ukraine.com/admin/files/4093.png",
+  "shop": {
+    "$oid": "62c5c763f28136e8c04909a9"
+  }
+},{
+  "_id": {
+    "$oid": "62c98b8e4d2b2b486f181c98"
+  },
+  "name": "Drumsticks",
+  "price": "5.49",
+  "image": "https://www.kfc-ukraine.com/admin/files/3790.jpg",
+  "shop": {
+    "$oid": "62c5c763f28136e8c04909a9"
+  }
+},{
+  "_id": {
+    "$oid": "62c98bd94d2b2b486f181c9f"
+  },
+  "name": "Bucket Fries",
+  "price": "2.49",
+  "image": "https://www.kfc-ukraine.com/admin/files/3833.jpg",
+  "shop": {
+    "$oid": "62c5c763f28136e8c04909a9"
+  }
+},{
+  "_id": {
+    "$oid": "62c98c384d2b2b486f181ca6"
+  },
+  "name": "Homemade Potatoes",
+  "price": "1.49",
+  "image": "https://www.kfc-ukraine.com/admin/files/3834.jpg",
+  "shop": {
+    "$oid": "62c5c763f28136e8c04909a9"
+  }
+},{
+  "_id": {
+    "$oid": "62c98c964d2b2b486f181cad"
+  },
+  "name": "Cheeseburger",
+  "price": "1.49",
+  "image": "https://www.kfc-ukraine.com/admin/files/4061.jpg",
+  "shop": {
+    "$oid": "62c5c763f28136e8c04909a9"
+  }
+},{
+  "_id": {
+    "$oid": "62c98d2b4d2b2b486f181cb4"
+  },
+  "name": "Flamin' Buffalo",
+  "price": "12.72",
+  "image": "https://www.pizzahut.co.uk/restaurants/Content/images/phr/pizza/Veggie_Flamin_Buffalo.jpg?v=IfMKnfM2hurYa6+hVXmsgpaK9ytjZG4MiK2smTkpywk=",
+  "shop": {
+    "$oid": "62c5c727f28136e8c04909a0"
+  }
+},{
+  "_id": {
+    "$oid": "62c98d604d2b2b486f181cbb"
+  },
+  "name": "Peri-Peri Party",
+  "price": "16.18",
+  "image": "https://www.pizzahut.co.uk/restaurants/Content/images/phr/pizza/PeriPeriParty.jpg?v=L5XUGBN9DiRnvJV9LDy93LFDdJksC6cF15VaM6qIjWU=",
+  "shop": {
+    "$oid": "62c5c727f28136e8c04909a0"
+  }
+},{
+  "_id": {
+    "$oid": "62c98da34d2b2b486f181cbe"
+  },
+  "name": "Chicken Delight Flatbread",
+  "price": "9.36",
+  "image": "https://www.pizzahut.co.uk/restaurants/Content/images/phr/flatbread/chicken-delight.jpg?v=+CYvhzG6t9RQtgI8aj/nBPHIu8yem5kyGABHUl+zw88=",
+  "shop": {
+    "$oid": "62c5c727f28136e8c04909a0"
+  }
+},{
+  "_id": {
+    "$oid": "62c98ddc4d2b2b486f181cc5"
+  },
+  "name": "Mac 'N' Cheese",
+  "price": "10.48",
+  "image": "https://www.pizzahut.co.uk/restaurants/Content/images/phr/main/3000095.jpg?v=jUD4E5DFQrXAY4IXNQ7CwxPZM6mJ8Xj8DzA9ve0W7sc=",
+  "shop": {
+    "$oid": "62c5c727f28136e8c04909a0"
+  }
+},{
+  "_id": {
+    "$oid": "62c98e074d2b2b486f181ccc"
+  },
+  "name": "Cheesy Triangles",
+  "price": "5.79",
+  "image": "https://www.pizzahut.co.uk/restaurants/Content/images/phr/side/1020247.jpg?v=7NyDDWZyvNH8jC6WIQ7BbGqhHEWm3Kp0gDfmGzfThlY=",
+  "shop": {
+    "$oid": "62c5c727f28136e8c04909a0"
+  }
+},{
+  "_id": {
+    "$oid": "62c9915e4d2b2b486f181cdc"
+  },
+  "name": "Strawberry Sprinkles",
+  "price": "1.85",
+  "image": "https://dunkindonutsmoscow.ru/upload/iblock/ad7/Ring-Klubnika.png",
+  "shop": {
+    "$oid": "62c5c751f28136e8c04909a6"
+  }
+},{
+  "_id": {
+    "$oid": "62c991b84d2b2b486f181cdf"
+  },
+  "name": "Glazed",
+  "price": "1.54",
+  "image": "https://dunkindonutsmoscow.ru/upload/iblock/111/Ring-Originalnyy.png",
+  "shop": {
+    "$oid": "62c5c751f28136e8c04909a6"
+  }
+},{
+  "_id": {
+    "$oid": "62c992794d2b2b486f181ce2"
+  },
+  "name": "Munchkins",
+  "price": "6.46",
+  "image": "https://dunkindonutsmoscow.ru/upload/iblock/509/DNK00732_MunchkinBox_10_lib_CMYK.jpg",
+  "shop": {
+    "$oid": "62c5c751f28136e8c04909a6"
+  }
+},{
+  "_id": {
+    "$oid": "62c992d24d2b2b486f181ce9"
+  },
+  "name": "Blueberry cheesecake",
+  "price": "2.31",
+  "image": "https://dunkindonutsmoscow.ru/upload/iblock/0e7/5.png",
+  "shop": {
+    "$oid": "62c5c751f28136e8c04909a6"
+  }
+}]

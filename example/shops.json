@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "62c5c700f28136e8c049099c"
+  },
+  "name": "McDonald`s"
+},{
+  "_id": {
+    "$oid": "62c5c727f28136e8c04909a0"
+  },
+  "name": "Pizza Hut"
+},{
+  "_id": {
+    "$oid": "62c5c736f28136e8c04909a3"
+  },
+  "name": "Burger King"
+},{
+  "_id": {
+    "$oid": "62c5c751f28136e8c04909a6"
+  },
+  "name": "Dunkin'"
+},{
+  "_id": {
+    "$oid": "62c5c763f28136e8c04909a9"
+  },
+  "name": "KFC"
+}]
